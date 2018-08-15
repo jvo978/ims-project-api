@@ -5,9 +5,9 @@
 https://imgur.com/a/8KeO6xA
 
 <h2>Repositories for application</h2>
-https://github.com/Team-Zero-Errors/ims-project-api
+https://github.com/jvo978/ims-project-api
 <p></p>
-https://github.com/Team-Zero-Errors/ims-project-client
+https://github.com/jvo978/ims-project-client
 <p></p>
 
 <h2>How it Works</h2>
@@ -21,9 +21,9 @@ populated into the inventory list. If the user deletes and item it will be
 removed from the inventory list.</p>
 
 <h2>Deployed sites</h2>
-https://ims-project-api.herokuapp.com
+https://ims-project-backend.herokuapp.com
 <br>
-https://team-zero-errors.github.io/ims-project-client/
+https://jvo978.github.io/ims-project-client/
 
 <h2>What technologies were used:</h2>
 
